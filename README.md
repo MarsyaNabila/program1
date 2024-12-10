@@ -68,7 +68,7 @@ File ini berisi kelas `ViewMahasiswa`, yang memiliki metode untuk menampilkan da
     - `tampilkan_list(data_mahasiswa)` : Menampilkan daftar semua mahasiswa.
     - `tampilkan_detail(mahasiswa)` : Menampilkan detail informasi mahasiswa.
 
-    ```python
+ ```python
     class ViewMahasiswa:
     @staticmethod
     def tampilkan_list(data_mahasiswa):
