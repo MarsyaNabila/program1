@@ -65,8 +65,8 @@ class DataMahasiswa:
 # 2. `view/mahasiswa.py`
 File ini berisi kelas `ViewMahasiswa`, yang memiliki metode untuk menampilkan daftar mahasiswa dan detail mahasiswa.
 
-    - `tampilkan_list(data_mahasiswa)` : Menampilkan daftar semua mahasiswa.
-    - `tampilkan_detail(mahasiswa)` : Menampilkan detail informasi mahasiswa.
+- `tampilkan_list(data_mahasiswa)` : Menampilkan daftar semua mahasiswa.
+- `tampilkan_detail(mahasiswa)` : Menampilkan detail informasi mahasiswa.
 
  ```python
     class ViewMahasiswa:
