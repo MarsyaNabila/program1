@@ -86,7 +86,7 @@ File ini berisi kelas `ViewMahasiswa`, yang memiliki metode untuk menampilkan da
             print(mahasiswa)
         else:
             print("\nMahasiswa tidak ditemukan.")
-```
+````
 
 ![Screenshot 2024-12-10 092658](https://github.com/user-attachments/assets/a697703b-9ab6-426e-be80-0fde6057a3d8)
 
