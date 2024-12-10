@@ -142,8 +142,17 @@ if __name__ == "__main__":
 ````
 # Langkah-langkah Menggunakan Proyek
 
+1. Batasan Program: Anda bisa menjalankan program utama dengan perintah berikut pada terminal atau command prompt:
+```python
+python main.py
+````
 
-![Screenshot 2024-12-10 092658](https://github.com/user-attachments/assets/a697703b-9ab6-426e-be80-0fde6057a3d8)
+
+2. Menambah Data Mahasiswa: Anda bisa menambah data mahasiswa melalui input yang ada di dalam kode atau menambahkannya secara langsung pada list data_mahasiswa di dalam main.py.
+
+3. Menampilkan Data Mahasiswa: Program akan menampilkan daftar mahasiswa dan detail mahasiswa sesuai dengan yang diminta.
+
+![Screenshot 2024-12-10 104402](https://github.com/user-attachments/assets/9b2aa9e7-6bc5-420b-92b4-4f075ace75be)
 
 
 
